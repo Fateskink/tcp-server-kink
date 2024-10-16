@@ -18,7 +18,9 @@ make
 ```
 
 ## Run
+```
 ./tcp
+```
 
 ## Code Explanation
 - Socket Creation: Creates a TCP socket.
