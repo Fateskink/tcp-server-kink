@@ -1,4 +1,8 @@
+/* tcp.c */
 #include <tcp.h>
+
+#define IP "87.248.100.216" /* yahoo.com */
+#define PORT 80
 
 int main()
 {
